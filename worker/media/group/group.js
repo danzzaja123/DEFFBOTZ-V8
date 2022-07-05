@@ -21,7 +21,7 @@ const reSize = (buffer, ukur1, ukur2) => {
          try {
            ppuser = await sock.profilePictureUrl(num, 'image')
          } catch {
-           ppuser = 'https://telegra.ph/file/265c672094dfa87caea19.jpg'
+           ppuser = 'https://telegra.ph/file/7ff7b1f592e885f0b453b.jpg'
          }
          if (update.action == 'add') {
           var button = [
