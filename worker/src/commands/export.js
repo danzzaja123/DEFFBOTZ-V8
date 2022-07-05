@@ -106,6 +106,7 @@ return `
 › vynn
 › Dittaz
 › Ridho
+› Danzz
 › All Friends`
 }
 exports.animeMenu = () => {
